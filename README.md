@@ -8,12 +8,12 @@ Clone du Norton Commander écrit en Pascal (Turbo Pascal ou Free Pascal)
 <h4>Version 1.0.2</h4>
 <ul>
   <li>Ajout du support des extensions contenu dans le fichier NC.EXT.</li>
-  <li>Support du raccourci Ctrl+R pour recharger le répertoire.</li>
+  <li>Support du raccourci clavier <kbd>Ctrl</kbd>+<kbd>R</kbd> pour recharger le répertoire.</li>
 </ul>
 
 <h4>Version 1.0.1</h4>
 <ul>
-  <li>Ajout du support de menu (F2) contenu dans le fichier NC.MNU.</li>
+  <li>Ajout du support de menu (<kbd>F2</kbd>) contenu dans le fichier NC.MNU.</li>
 </ul>
 
 <h2>Compilation</h2>
