@@ -9,7 +9,7 @@ Clone du Norton Commander écrit en Pascal (Turbo Pascal ou Free Pascal)
 <ul>
   <li>Restructuration des suppressions de la suppression pour plus conforme au Norton Commander.</li>
   <li>Transforme la boite de quitter le Norton Commander plus conviviale avec les boutons.</li>
-  <li>Intégration du cadre d'application FRAMTEXT pour les boites de dialogues.</li>
+  <li>Intégration du cadre d'application <a href="https://github.com/gladir/FRAMTEXT" target="_blank">FRAMTEXT</a> pour les boites de dialogues.</li>
 </ul>
 
 <h4>Version 1.0.3</h4>
