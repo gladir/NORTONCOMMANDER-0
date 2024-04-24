@@ -5,6 +5,14 @@ Clone du Norton Commander écrit en Pascal (Turbo Pascal ou Free Pascal)
 
 <h2>Quoi de neuf</h2>
 
+<h4>Version 1.0.3</h4>
+<ul>
+  <li>Ajout d'un historique de commande accessible avec les combinaisons de touche <kbd>Ctrl</kbd>+<kbd>E</kbd> et <kbd>Ctrl</kbd>+<kbd>X</kbd></li>
+  <li>Correctif du <kbd>ESC</kbd> pour qu'il efface la commande plutot que de quitter le programme.</li>
+  <li>Ajout du support du raccourci clavier <kbd>Ctrl</kbd>+<kbd>Y</kbd>.
+</ul>
+
+
 <h4>Version 1.0.2</h4>
 <ul>
   <li>Ajout du support des extensions contenu dans le fichier NC.EXT.</li>
