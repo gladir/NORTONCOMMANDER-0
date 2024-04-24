@@ -7,7 +7,7 @@ Clone du Norton Commander écrit en Pascal (Turbo Pascal ou Free Pascal)
 
 <h4>Version 1.0.4</h4>
 <ul>
-  <li>Restructuration des suppressions de la suppression pour plus conforme au Norton Commander.</li>
+  <li>Restructuration des suppressions pour être plus conforme au Norton Commander.</li>
   <li>Transforme la boite de quitter le Norton Commander plus conviviale avec les boutons.</li>
   <li>Intégration du cadre d'application <a href="https://github.com/gladir/FRAMTEXT" target="_blank">FRAMTEXT</a> pour les boites de dialogues.</li>
 </ul>
