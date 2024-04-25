@@ -5,6 +5,11 @@ Clone du Norton Commander écrit en Pascal (Turbo Pascal ou Free Pascal)
 
 <h2>Quoi de neuf</h2>
 
+<h4>Version 1.0.5</h4>
+<ul>
+  <li>Restructuration du "Crée un répertoire" pour être plus conforme au Norton Commander (avec des messages francais ou anglais).</li>
+</ul>
+
 <h4>Version 1.0.4</h4>
 <ul>
   <li>Restructuration des suppressions pour être plus conforme au Norton Commander.</li>
