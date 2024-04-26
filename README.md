@@ -50,6 +50,20 @@ Clone du Norton Commander écrit en Pascal (Turbo Pascal ou Free Pascal)
   <li>Ajout du support de menu (<kbd>F2</kbd>) contenu dans le fichier NC.MNU.</li>
 </ul>
 
+<h2>Langage humain</h3>
+
+Pour changer la langue des commandes, vous devez fixer la valeur de la variable d'environnement LANGUAGE, par exemple, pour passer à l'allemand :
+
+SET LANGUAGE=GR	
+	
+Sinon par l'italien :
+
+SET LANGUAGE=IT
+
+Pour l'anglais :
+	
+SET LANGUAGE=EN
+
 <h2>Compilation</h2>
 	
 Les fichiers Pascal n'ont aucune dépendances, il suffit de télécharger le fichier désiré et de le compiler avec Free Pascal avec la syntaxe de commande  :
