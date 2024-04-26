@@ -5,6 +5,13 @@ Clone du Norton Commander écrit en Pascal (Turbo Pascal ou Free Pascal)
 
 <h2>Quoi de neuf</h2>
 
+<h4>Version 1.0.6</h4>
+<ul>
+  <li>Ajout de la boite de dialogue d'historique de commande accessible via le raccourci clavier <kbd>Alt</kbd>+<kbd>F8</kbd>.</li>
+  <li>Ajout des quelques traductions de langue allemande.</li>
+</ul>
+
+
 <h4>Version 1.0.5</h4>
 <ul>
   <li>Restructuration du "Crée un répertoire" pour être plus conforme au Norton Commander (avec des messages francais ou anglais).</li>
