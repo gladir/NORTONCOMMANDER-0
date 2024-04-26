@@ -5,6 +5,13 @@ Clone du Norton Commander écrit en Pascal (Turbo Pascal ou Free Pascal)
 
 <h2>Quoi de neuf</h2>
 
+<h4>Version 1.0.7</h4>
+<ul>
+  <li>Ajout de traduction pour la langue italienne.</li>
+  <li>Support du <kbd>Alt</kbd>+<kbd>F9</kbd> pour le passage en mode EGA avec 43 plutôt que 25 lignes de texte.</li>
+  <li>Ajout du support de renommer ou déplacer avec la touche <kbd>F6</kbd></li>
+</ul>
+
 <h4>Version 1.0.6</h4>
 <ul>
   <li>Ajout de la boite de dialogue d'historique de commande accessible via le raccourci clavier <kbd>Alt</kbd>+<kbd>F8</kbd>.</li>
