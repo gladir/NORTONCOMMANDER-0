@@ -3,6 +3,8 @@ Clone du Norton Commander écrit en Pascal (Turbo Pascal ou Free Pascal)
 
 ![image](https://github.com/gladir/NORTONCOMMANDER-0/assets/11842176/79e3db12-9fbf-4989-91a8-0bdab195dda8)
 
+![image](https://github.com/gladir/NORTONCOMMANDER-0/assets/11842176/7bbbbb42-094c-45f7-a794-120b831b8798)
+
 <h2>Quoi de neuf</h2>
 
 <h4>Version 1.0.7</h4>
