@@ -7,6 +7,13 @@ Clone du Norton Commander écrit en Pascal (Turbo Pascal ou Free Pascal)
 
 <h2>Quoi de neuf</h2>
 
+<h4>Version 1.0.8</h4>
+<ul>
+  <li>Ajout de traduction pour la langue espagnol.</li>
+  <li>Support du <kbd>Ctrl</kbd>+<kbd>\</kbd> pour retourner au répertoire racine.</li>
+  <li>Support du <kbd>Ctrl</kbd>+<kbd>\</kbd> pour retrourner au dossier parent dans la panneau de fichiers courant.</li>
+</ul>
+
 <h4>Version 1.0.7</h4>
 <ul>
   <li>Ajout de traduction pour la langue italienne.</li>
