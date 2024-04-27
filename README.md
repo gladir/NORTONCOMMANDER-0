@@ -69,6 +69,10 @@ Sinon par l'italien :
 
 SET LANGUAGE=IT
 
+Egalement pour l'espagnol :
+
+SET LANGUAGE=SP
+
 Pour l'anglais :
 	
 SET LANGUAGE=EN
