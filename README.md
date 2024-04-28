@@ -81,6 +81,14 @@ Egalement pour l'espagnol :
 
 SET LANGUAGE=SP
 
+Aussi pour le danois :
+
+SET LANGUAGE=DK
+
+Ou le suédois :
+
+SET LANGUAGE=SE
+
 Pour l'anglais :
 	
 SET LANGUAGE=EN
