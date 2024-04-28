@@ -7,6 +7,14 @@ Clone du Norton Commander écrit en Pascal (Turbo Pascal ou Free Pascal)
 
 <h2>Quoi de neuf</h2>
 
+<h4>Version 1.0.9</h4>
+<ul>
+  <li>Ajout de traduction pour la langue danois et suédois.</li>
+  <li>Ajout d'un visulisateur hexadécimal avec <kbd>F4</kbd> dans le visualisateur de fichier <kbd>F3</kbd></li>
+  <li>Ajout du support du <kbd>PgUp</kbd> ou <kbd>PgDn</kbd> pour se déplacer dans le panneau de fichier courant.</li>
+  <li>Ajout du paramètre «/LINES:» pour forcer un nombre de lignes d'affichage spécifique.</li>
+</ul>
+
 <h4>Version 1.0.8</h4>
 <ul>
   <li>Ajout de traduction pour la langue espagnol.</li>
