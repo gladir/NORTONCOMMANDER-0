@@ -1,7 +1,11 @@
 # NORTONCOMMANDER-0
-Clone du Norton Commander écrit en Pascal (Turbo Pascal ou Free Pascal)
+Clone du Norton Commander écrit en Pascal (Turbo Pascal ou Free Pascal). Le NORTONCOMMANDER-0, supporte plusieurs langues, dont le français, l'anglais, le suédois, l'italien et l'espagnol.
+
+Voici un aperçu en francais&nbsp;:
 
 ![image](https://github.com/gladir/NORTONCOMMANDER-0/assets/11842176/79e3db12-9fbf-4989-91a8-0bdab195dda8)
+
+Voici un aperçu en allemand&nbsp;:
 
 ![image](https://github.com/gladir/NORTONCOMMANDER-0/assets/11842176/7bbbbb42-094c-45f7-a794-120b831b8798)
 
